@@ -15,9 +15,9 @@ You can :
 >
 > Fix File Filter 
 > New Design 
-> #### The quarterly results look great!
+> #### New Desing
 >
-> - Revenue was off the chart.
-> - Profits were higher than ever.
+> - Added tabs
+> - New future - Program description
 >
 >  *Everything* is going according to **plan**.
