@@ -1,5 +1,5 @@
 # A program that will simplify the life of a perfectionist
-### Download [FileChanger](https://github.com/RedMooner/FileChanger/archive/main.zip)
+
 
 The File Changer program has many different functions!
 You can :
@@ -9,3 +9,9 @@ You can :
     - Diiferent Windows tweaks
     - Optimization
 - Clean Regestry
+
+### Last Update: 
+> Regestry edit ( Hide all  desktop icons )
+>
+> Fix File Filter 
+> New Design 
