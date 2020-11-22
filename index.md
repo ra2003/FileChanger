@@ -21,3 +21,4 @@ You can :
 > - New future - Program description
 >
 >  *Everything* is going according to **plan**.
+ ![Tux, the Linux mascot](scr.PNG)
