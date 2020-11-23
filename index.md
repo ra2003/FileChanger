@@ -10,15 +10,12 @@ You can :
     - Optimization
 - Clean Regestry
 
-### Last Update: 
-> Regestry edit ( Hide all  desktop icons )
->
-> Fix File Filter 
-> New Design 
+### Usage: 
+> hide all desktop icons
+> Automatically restart your computer on critical error
+> Filtering files by their extensions
+> Retrieving file information
 > #### New Desing
->
-> - Added tabs
-> - New future - Program description
->
+
 >  *Everything* is going according to **plan**.
  ![Tux, the Linux mascot](scr.PNG)
