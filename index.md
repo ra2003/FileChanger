@@ -11,11 +11,13 @@ You can :
 - Clean Regestry
 
 ### Usage: 
-> hide all desktop icons
-> Automatically restart your computer on critical error
-> Filtering files by their extensions
-> Retrieving file information
-> #### New Desing
+- Regestry
+- hide all desktop icons
+    - Automatically restart your computer on critical error
+    - Filtering files by their extensions
+- Retrieving file information
+- #### New Desing
+
 
 >  *Everything* is going according to **plan**.
  ![Tux, the Linux mascot](scr.PNG)
